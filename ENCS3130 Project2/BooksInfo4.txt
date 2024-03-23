@@ -1,0 +1,17 @@
+Title : Python Programming
+Publisher ‏ : ‎ Jolaso
+Edition : 2
+Year : 2012
+Month : 3
+Language ‏ : ‎ English
+Paperback ‏ : ‎ 123 pages
+ISBN-10 ‏ : ‎ 1449582963
+ISBN-13 ‏ : ‎ 978-1443139531
+
+Title : Java Programming Language
+Publisher ‏ : ‎ John
+Year : 1998
+Month : 1
+Paperback ‏ : ‎ 342 pages
+ISBN-10 ‏ : ‎ 0131149638
+ISBN-13 ‏ : ‎ 978-0131931527
